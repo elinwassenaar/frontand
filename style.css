@@ -21,7 +21,7 @@ article {
     margin: 2em 2em 2em -10em;
 }
 
-blockquote {
+.quote {
     width: 10em;
     font-size: 1.5em;
 }
